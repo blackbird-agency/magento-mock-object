@@ -15,7 +15,7 @@ More objects will be added.
 
 
 ```
-composer require-dev blackbird/magento-mock-object
+composer require --dev blackbird/magento-mock-object
 ```
 
 ### Install the module
