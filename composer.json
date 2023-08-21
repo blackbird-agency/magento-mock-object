@@ -20,9 +20,6 @@
     },
     "license": "MIT",
     "autoload": {
-        "files": [
-          "registration.php"
-        ],
         "psr-4": {
           "Blackbird\\MagentoMockObject\\": ""
         }
